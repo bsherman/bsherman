@@ -1,10 +1,11 @@
 Howdy! 🤠 I'm Benjamin.
 
-I work full time at a startup named Cloudsmash. 
+I work full time at Red Hat as a software engineer. 
 
-In my free time, I help maintain 
-- [Universal Blue](https://universal-blue.org/) - an Atomic Fedora Linux desktop 
-- [uCore](https://projectucore.io/) - customized Fedora CoreOS server
+In my free time, I help maintain Universal Blue bootc Linux images: 
+- [Bazzite](https://bazzite.gg/) - Linux Gaming
+- [Bluefin(https://projectbluefin.io/) - Linux Workstatgion
+- [uCore](https://projectucore.io/) - customized Fedora CoreOS Linux server
 
 
 
