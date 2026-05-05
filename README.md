@@ -4,7 +4,7 @@ I work full time at Red Hat as a software engineer.
 
 In my free time, I help maintain Universal Blue bootc Linux images: 
 - [Bazzite](https://bazzite.gg/) - Linux Gaming
-- [Bluefin](https://projectbluefin.io/) - Linux Workstatgion
+- [Bluefin](https://projectbluefin.io/) - Linux Workstation
 - [uCore](https://projectucore.io/) - customized Fedora CoreOS Linux server
 
 
